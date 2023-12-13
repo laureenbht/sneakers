@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "strapi-plugin-import-export-entries": "^1.22.1"
+  }
+}
